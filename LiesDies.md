@@ -1,1 +1,3 @@
-Hallo Nickals ich habe dein Repository übernommen!
+#Kinderarbeit
+#AFDMussWeg
+#SehrGutesStudium
